@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
-    <img src="hhttps://github.com/owshq-live/conceptual-class/blob/main/Data_Pipelines_Inteligentes_Apache_Airflow_95/images/body-dags-smart.png" alt="Project logo">
+    <img src="https://github.com/owshq-live/conceptual-class/blob/main/Data_Pipelines_Inteligentes_Apache_Airflow_95/images/body-dags-smart.png" alt="Project logo">
  </a>
 </p>
 
